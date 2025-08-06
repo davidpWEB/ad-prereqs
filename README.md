@@ -1,1 +1,1 @@
-# ad-prereqs
+# Creating Active Directory infrastructure: Prerequisites
